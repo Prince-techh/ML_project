@@ -1,0 +1,10 @@
+{
+    "logistic_regression":  {
+                                "prediction":  "No",
+                                "churn_probability":  0.0386
+                            },
+    "xgboost":  {
+                    "prediction":  "No",
+                    "churn_probability":  0.0471
+                }
+}

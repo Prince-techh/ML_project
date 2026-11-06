@@ -1,0 +1,46 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Frontend dependencies and build
+node_modules/
+dist/
+
+# IDE and editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Dataset and large generated files
+*.csv
+*.zip
